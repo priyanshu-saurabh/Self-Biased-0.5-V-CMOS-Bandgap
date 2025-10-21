@@ -1,7 +1,7 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
-# NanoVolt-BGR  
-**Sub-1 V CMOS Bandgap Reference with High PSRR**
+#  Self-Biased 0.5 V CMOS Bandgap
+**Sub-0.5 V CMOS Bandgap Reference with High PSRR**
 
 ---
 
